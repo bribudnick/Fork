@@ -1,0 +1,3 @@
+Line 1 goes here, then press enter
+keep pressing enter until you are done
+writing the file; when done, enter 'EOL'

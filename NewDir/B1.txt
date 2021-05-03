@@ -1,0 +1,7 @@
+ there are a couple of ways to add multiple lines of text 
+to a text file; this is one method.
+I prefer this method personally.
+this is another method used to add multiple lines of text to a file.
+this is the suggested method among the majority of people.
+I don't know what else to say, my cat is sleeping next to me while I work
+and it is really cute.
